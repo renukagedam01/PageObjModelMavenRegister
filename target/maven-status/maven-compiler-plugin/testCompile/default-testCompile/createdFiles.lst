@@ -1,0 +1,5 @@
+mstr\config\ConfigReg.class
+mstr\pages\FlightFinderPageReg.class
+mstr\utility\CloseBrowserReg.class
+mstr\pages\RegisterPage.class
+mstr\utility\LaunchSiteReg.class
