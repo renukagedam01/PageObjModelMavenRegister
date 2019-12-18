@@ -23,6 +23,7 @@ public void loadFlightFinderPage()
 }
 public void flightFinderPageImg()
 {
+	System.out.println("flightFinderPageImg block");
 	boolean flag = objFlightFinderimg.isDisplayed();
 	System.out.println("objFlightFinderimg:  " +flag);
 }
