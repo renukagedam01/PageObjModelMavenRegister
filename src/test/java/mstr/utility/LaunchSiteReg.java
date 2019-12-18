@@ -53,7 +53,7 @@ public class LaunchSiteReg {
 		lsr.enterApplicationURL("http://newtours.demoaut.com/mercuryregister.php");
 		lsr.maximiseBrowser();
 		lsr.waitTillBrowserOpen(15);
-		
+		System.out.println("waitTillBrowserOpen");
 	}
 }
 

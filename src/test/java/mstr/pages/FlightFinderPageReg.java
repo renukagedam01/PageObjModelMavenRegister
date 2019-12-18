@@ -19,6 +19,7 @@ public class FlightFinderPageReg {
 public void loadFlightFinderPage()
 {
 	PageFactory.initElements(ConfigReg.driver ,this); 
+	System.out.println("loadFlightFinderPage");
 }
 public void flightFinderPageImg()
 {
